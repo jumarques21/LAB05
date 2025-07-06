@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/renat/OneDrive/Documentos/LAB05/LAB05/TIM2ADC1/cmake/stm32cubemx
+# Install script for directory: C:/Users/Aluno/OneDrive/Documentos/LAB05/LAB05/TIM2ADC1/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

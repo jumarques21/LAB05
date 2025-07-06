@@ -1,5 +1,5 @@
 /* ----------------------------------------------------------------------
- * Project:      CMSIS DSP Library
+ * Project:      CMSIS DSP Librarys
  * Title:        arm_rfft_init_q15.c
  * Description:  RFFT & RIFFT Q15 initialisation function
  *
